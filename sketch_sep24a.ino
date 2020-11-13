@@ -5,8 +5,8 @@
 
 #define FIREBASE_HOST "nodemcu-34d53.firebaseio.com"                         // the project name address from firebase id
 #define FIREBASE_AUTH "p8h1hSxAtaaBCHMmBpwSIKSvBE9bL2f33xJNbeBi"                    // the secret key generated from firebase
-#define WIFI_SSID "Mitrovic"                                          // input your home or public wifi name 
-#define WIFI_PASSWORD "Slobodanulazizvolte97" 
+#define WIFI_SSID ""                                          // input your home or public wifi name 
+#define WIFI_PASSWORD "" 
 
 
 #define LED_NOTIF 4
